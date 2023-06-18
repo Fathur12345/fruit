@@ -48,15 +48,15 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 //messages
 global.mess = {
-    success: 'Here you go!',
-    admin: 'This feature could be used by admins only!',
-    botAdmin: 'Bot Must Be Admin First!',
-    premime: 'Premium Special Features If You Want to Register Type Rent',
-    owner: 'This feature could be used by owner only',
-    group: 'Features Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
+    success: '𝙽𝙸𝙷 𝙱𝙰𝙽𝙶!!',
+    admin: '𝙵𝙸𝚃𝚄𝚁 𝙸𝙽𝙸 𝙺𝙷𝚄𝚂𝚄𝚂 𝙰𝙳𝙼𝙸𝙽 𝙱𝙰𝙽𝙶!!!',
+    botAdmin: '𝙱𝙾𝚃 𝙷𝙰𝚁𝚄𝚂 𝙹𝙰𝙳𝙸 𝙰𝙳𝙼𝙸𝙽 𝙳𝚄𝙻𝚄!!!',
+    premime: '𝙵𝙸𝚃𝚄𝚁 𝙸𝙽𝙸 𝙺𝙷𝚄𝚂𝚄𝚂 𝙿𝚁𝙴𝙼𝙸𝚄𝙼 𝚃𝙾𝙻𝙾𝙻, 𝙺𝙰𝙻𝙾𝙺 𝙼𝙰𝚄 𝙿𝚁𝙴𝙼𝙸𝚄𝙼 𝙲𝙷𝙰𝚃 𝙾𝚆𝙽𝙴𝚁!!!!',
+    owner: '𝙵𝙸𝚃𝚄𝚁 𝙸𝙽𝙸 𝙺𝙷𝚄𝚂𝚄𝚂 𝙾𝚆𝙽𝙴𝚁 𝙳𝙾𝙰𝙽𝙶 𝚃𝙾𝙻𝙾𝙻!!!',
+    group: '𝙵𝙸𝚃𝚄𝚁 𝙸𝙽𝙸 𝙷𝙰𝙽𝚈𝙰 𝙱𝙸𝚂𝙰 𝙳𝙸𝙶𝚄𝙽𝙰𝙺𝙰𝙽 𝙳𝙸 𝙶𝚁𝚄𝙿 𝙶𝙾𝙱𝙻𝙾𝙺!!!!',
+    private: '𝙵𝙸𝚃𝚄𝚁 𝙸𝙽𝙸 𝙷𝙰𝙽𝚈𝙰 𝙱𝙸𝚂𝙰 𝙳𝙸𝙶𝚄𝙽𝙰𝙺𝙰𝙽 𝙳𝙸 𝙲𝙷𝙰𝚃 𝙿𝚁𝙸𝙱𝙰𝙳𝙸!!!!',
     bot: 'This feature could be used by bot only',
-    wait: 'In process...',
+    wait: '𝙻𝙰𝙶𝙸 𝙳𝙸𝙿𝚁𝙾𝚂𝙴𝚂 𝚃𝙾𝙻𝙻...',
     linkm: 'Where is the link?',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
